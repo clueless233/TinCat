@@ -175,3 +175,62 @@ h2 {
     /* text-align: center; */
     margin: 0 auto 0 auto;
 }
+
+@media (max-width:1010px) {
+
+    #cat-phone {
+        transform: rotate(0deg);
+        position: static;
+    }
+
+    #title {
+        text-align: center;
+    }
+}
+
+/*  Call to Action Section */
+
+#CTA {
+    background-color: #ff4c68;
+    color: #fff;
+    /* padding: 100px 0; */
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.cta-h {
+    font-family: "Montserrat";
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+    width: 70%;
+    margin: 0 auto;
+}
+
+
+
+/* Footer */
+
+#footer {
+    /* padding-bottom: 50px; */
+    padding: 7% 15%;
+    text-align: center;
+}
+
+#footer-p {
+    /* text-align: center; */
+    color: #8f8f8f;
+    font-size: 0.7rem;
+
+}
+
+/* .fd-icon {
+    text-align: center;
+} */
+
+.f-icon {
+
+    /* padding: 100px 10px 10px; */
+    /* margin: 0 auto 0 auto; */
+    margin: 20px 10px;
+}
